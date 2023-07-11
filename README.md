@@ -8,7 +8,7 @@ Proyek ini adalah sebuah aplikasi yang didesain dengan menggunakan pendekatan be
 
 **DataBase:** Mysql
 
-**FrameWork:** BootStap, JQuery
+**Framework:** Boostrap, JQuery
 
 
 
