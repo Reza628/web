@@ -12,7 +12,3 @@ Proyek ini adalah sebuah aplikasi yang didesain dengan menggunakan pendekatan be
 
 
 
-## Screenshots
-
-![App Screenshot](/img/1.png)
-
