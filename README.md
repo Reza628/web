@@ -14,5 +14,5 @@ Proyek ini adalah sebuah aplikasi yang didesain dengan menggunakan pendekatan be
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/img/1.png)
 
