@@ -1,7 +1,7 @@
 
 # Project Web Dengan Database
 
-Proyek ini adalah sebuah aplikasi yang didesain dengan menggunakan pendekatan berbasis database yang kuat untuk mengelola dan memanipulasi data dengan efisien. Saya merancang struktur database yang optimal dan mengembangkan antarmuka yang intuitif menggunakan HTML, CSS, JavaScript, dan PHP. Tujuan proyek ini adalah memberikan efisiensi dan kehandalan dalam pengelolaan data dengan solusi web yang responsif.
+Project Ini merupakan aplikasi web tiketing untuk event atau seminar sekolah. Aplikasi ini didesain dengan menggunakan pendekatan berbasis database yang kuat untuk mengelola dan memanipulasi data dengan efisiensi. Saya melihat bahwa struktur database telah dirancang dengan optimal untuk mendukung kebutuhan pengelolaan data. Selain itu, antarmuka aplikasi web ini dirancang dengan menggunakan kombinasi HTML, CSS, JavaScript, dan PHP, memberikan pengalaman yang intuitif kepada pengguna. Tujuan utama proyek ini adalah memberikan efisiensi dan kehandalan dalam pengelolaan data dengan solusi web yang responsif, sehingga mempermudah proses tiketing untuk event atau seminar Universitas.
 ## Tech Stack
 
 **Bahasa Pemograman:** HTML, CSS, JavaScript, PHP 
